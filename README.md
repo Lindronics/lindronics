@@ -1,8 +1,9 @@
-## Hi there 👋
+# Hi there 👋
 
 ## Connect with me
 
-![https://www.linkedin.com/in/niklaslindorfer/](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&style=flat)
+![https://www.linkedin.com/in/niklaslindorfer/](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white&style=flat)
+![https://github.com/Lindronics](https://img.shields.io/badge/GitHub-181717.svg?&logo=github&logoColor=white&style=flat)
 
 ## Technologies I like
 
