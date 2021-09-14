@@ -1,9 +1,12 @@
 # Hi there 👋
 
+- 🏦 I currently work for HSBC in London as a Graduate Software Developer
+- 🎓 I studied Computer Science at University of Glasgow
+
 ## Connect with me
 
-![https://www.linkedin.com/in/niklaslindorfer/](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white&style=flat)
-![https://github.com/Lindronics](https://img.shields.io/badge/GitHub-181717.svg?&logo=github&logoColor=white&style=flat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/niklaslindorfer/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&logo=github&logoColor=white&style=flat)](https://github.com/Lindronics)
 
 ## Technologies I like
 
@@ -37,18 +40,3 @@ shields.io
 -->
 
 <!-- ![Git stats](https://github-readme-stats.vercel.app/api?username=Lindronics&show_icons=true&hide_rank=true) -->
-
-<!--
-**Lindronics/lindronics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
