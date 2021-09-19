@@ -1,7 +1,8 @@
 # Hi there 👋
 
-- 🏦 I currently work for HSBC in London as a Graduate Software Developer
-- 🎓 I studied Computer Science at University of Glasgow
+- 🏦 I currently work for HSBC in London as a Graduate Software Developer.
+- 🎓 I studied Computer Science at University of Glasgow.
+- 🍀 My hobbies include 📷 photography, ⛵ sailing, and 🖌️ miniature painting.
 
 ## Connect with me
 
@@ -31,12 +32,10 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit%20learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=flat)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lindronics&hide=jupyter%20notebook,tex&layout=compact)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lindronics&hide=jupyter%20notebook,tex&layout=compact&langs_count=10)
 
 <!-- 
 Icon sources:
 simpleicons.org
 shields.io 
 -->
-
-<!-- ![Git stats](https://github-readme-stats.vercel.app/api?username=Lindronics&show_icons=true&hide_rank=true) -->
