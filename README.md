@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🏦 I currently work for HSBC in London as a Graduate Software Developer.
+- 🏦 I currently work for TrueLayer in London as a Software Developer.
 - 🎓 I studied Computer Science at University of Glasgow.
 - 🍀 My hobbies include 📷 photography, ⛵ sailing, and 🖌️ miniature painting.
 
