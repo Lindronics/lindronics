@@ -31,8 +31,11 @@
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=white&style=flat)
 ![Scikit-learn](https://img.shields.io/badge/Scikit%20learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=flat)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=Rust&logoColor=white&style=flat)
+![CSharp](https://img.shields.io/badge/C%23-239120?logo=CSharp&logoColor=white&style=flat)
+![CircleCi](https://img.shields.io/badge/CircleCi-343434?logo=CircleCi&logoColor=white&style=flat)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lindronics&hide=jupyter%20notebook,tex&layout=compact&langs_count=10)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lindronics&hide=jupyter%20notebook,tex,ruby&layout=compact&langs_count=10)
 
 <!-- 
 Icon sources:
